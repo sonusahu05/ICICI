@@ -1,0 +1,441 @@
+{
+    "sections": [
+      {
+        "name": "Nutrition",
+        "questions": [
+          {
+            "id": "33",
+            "weight": 0.25,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I eat at least 3 cups of fruits and vegetables every day.",
+            "pivotType": "NA",
+            "goodRemark": "Maintain your intake of fruits and vegetables!",
+            "optionType": "distinct",
+            "focusRemark": "Consider fueling your health with nature's bounty- fruits and veggies!",
+            "excellentRemark": "You are charging your health with fruits and veggies- go above and beyond!"
+          },
+          {
+            "id": "34",
+            "weight": 0.15,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I eat at fast food restaurants less than thrice a week.",
+            "pivotType": "NA",
+            "goodRemark": "Consider reducing your fast food intake even further for health benefits.",
+            "optionType": "distinct",
+            "focusRemark": "Choose health, skip fast food- opt for nutritious alternatives instead.",
+            "excellentRemark": "Great job avoiding fast food!"
+          },
+          {
+            "id": "35",
+            "weight": 0.2,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I include fibrous foods like whole grain breads, cereals, beans in my diet.",
+            "pivotType": "NA",
+            "goodRemark": "Consider including fiber-rich foods even more for additional benefits.",
+            "optionType": "distinct",
+            "focusRemark": "How about having fibrous foods to shield your digestive health?",
+            "excellentRemark": "Your gut will thank you for including fiber-rich foods in your diet."
+          },
+          {
+            "id": "36",
+            "weight": 0.15,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": " I avoid eating fatty foods such as whole milk, fried foods, fatty meats, etc.",
+            "pivotType": "NA",
+            "goodRemark": "Consider avoiding fatty foods even further to keep your cholesterol low.",
+            "optionType": "distinct",
+            "focusRemark": "Embrace health, ditch high-fat foods.",
+            "excellentRemark": "Great job in avoiding high-fat foods!"
+          },
+          {
+            "id": "37",
+            "weight": 0.25,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I eat protein-rich foods like milk products, meat, fish, beans, etc.",
+            "pivotType": "NA",
+            "goodRemark": "Amplify your diet's benefits with some more protein!",
+            "optionType": "distinct",
+            "focusRemark": "Try to incorporate more protein into your daily meals.",
+            "excellentRemark": "Congrats on consistently fueling your body with protein!"
+          }
+        ],
+        "totalWeight": 1
+      },
+      {
+        "name": "Lifestyle",
+        "questions": [
+          {
+            "id": "38",
+            "weight": 0.08,
+            "options": [
+              "0",
+              "14"
+            ],
+            "question": "How many hours of sleep do you get each night?",
+            "pivotType": "NA",
+            "goodRemark": "Your sleep patterns are average, but optimizing them can enhance your overall health.",
+            "optionType": "numeric",
+            "focusRemark": "Prioritize sleep for better health and well-being.",
+            "excellentRemark": "Kudos on consistently getting ample sleep!"
+          },
+          {
+            "id": "39",
+            "weight": 0.07,
+            "options": [
+              "1",
+              "20"
+            ],
+            "question": "How many glasses of water do you drink each day?",
+            "pivotType": "NA",
+            "goodRemark": "Improve water intake consistency for optimal hydration.",
+            "optionType": "numeric",
+            "focusRemark": "Alarm! Insufficient water intake risks dehydration and health problems.",
+            "excellentRemark": "Well done on prioritizing your hydration needs!"
+          },
+          {
+            "id": "40",
+            "weight": 0.1,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I avoid the use of tobacco products (cigarettes, smokeless tobacco, cigars, and pipes) and limit myself to 5 drinks of alcohol a week. (beer, liquor, wine)",
+            "pivotType": "NA",
+            "goodRemark": "Exercise better self-control on substance intake.",
+            "optionType": "distinct",
+            "focusRemark": "Take charge of substance intake for improved health habits.",
+            "excellentRemark": "Kudos! You steer clear of tobacco and alcohol responsibly."
+          },
+          {
+            "id": "41",
+            "weight": 0.08,
+            "options": [
+              "Always",
+              "Never"
+            ],
+            "question": "Is your one-sided commute time  more than an hour ? ",
+            "pivotType": "NA",
+            "goodRemark": "Commuting an hour is considered average, allowing for a reasonable travel time.",
+            "optionType": "distinct",
+            "focusRemark": "A long commute is time-consuming and exhausting for you.",
+            "excellentRemark": "Spending less than an hour commuting showcases efficient time management skills!"
+          },
+          {
+            "id": "42",
+            "weight": 0.19,
+            "options": [
+              "Always or Almost Always",
+              "Very Often",
+              "Often",
+              "Occasionally",
+              "Never or Almost Never"
+            ],
+            "question": "How often are you addicted to online streaming services?",
+            "pivotType": "NA",
+            "goodRemark": "Be mindful of time spent on streaming platforms.",
+            "optionType": "distinct",
+            "focusRemark": "Beware of excessive screen usage as it can adversely affect your productivity, mental health, and overall well-being.",
+            "excellentRemark": "Avoiding excessive streaming fosters a healthy digital balance. Bravo!"
+          },
+          {
+            "id": "43",
+            "weight": 0.12,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I engage in physical activity at least half an hour, 5 days a week.",
+            "pivotType": "NA",
+            "goodRemark": "Your commitment to moderate physical activity outside of work is commendable.",
+            "optionType": "distinct",
+            "focusRemark": "You must consider incorporating regular exercise for better health.",
+            "excellentRemark": "Congratulations on consistently engaging in moderate physical activity!"
+          },
+          {
+            "id": "44",
+            "weight": 0.1,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "My physical activity includes stretching, aerobic activity, and strength training.",
+            "pivotType": "NA",
+            "goodRemark": "Well-rounded exercise routine shows dedication, improvise on prioritizing fitness.",
+            "optionType": "distinct",
+            "focusRemark": "Embrace variety in your exercise: Stretching, aerobics, and strength training.",
+            "excellentRemark": "Your body will thank you for having a well-rounded approach of exercising!"
+          },
+          {
+            "id": "45",
+            "weight": 0.08,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I prioritize alternative transportation- taking stairs, biking, walking whenever feasible.",
+            "pivotType": "NA",
+            "goodRemark": "Improve your physically active commute for a healthier body.",
+            "optionType": "distinct",
+            "focusRemark": "Choose stairs over elevators, walk instead of driving- for a healthier lifestyle.",
+            "excellentRemark": "Kudos for embracing physically active commuting!"
+          },
+          {
+            "id": "46",
+            "weight": 0.08,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I choose physical activity over inactivity.",
+            "pivotType": "NA",
+            "goodRemark": "Prioritizing physical activity over inactivity is a positive step forward.",
+            "optionType": "distinct",
+            "focusRemark": "Break free from inactivity and embrace the benefits of an active lifestyle.",
+            "excellentRemark": "Your dedicated active lifestyle inspires others- keep it up!"
+          },
+          {
+            "id": "47",
+            "weight": 0.1,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I see my physician for routine checkups, health screenings, and disease prevention.",
+            "pivotType": "NA",
+            "goodRemark": "You can improvise in showing responsibility towards prioritizing preventive care.",
+            "optionType": "distinct",
+            "focusRemark": "Take charge of your health- prioritize regular health checkups.",
+            "excellentRemark": "It's fantastic to hear that you prioritize routine checkups."
+          }
+        ],
+        "totalWeight": 1
+      },
+      {
+        "name": "Stress",
+        "questions": [
+          {
+            "id": "48",
+            "weight": 0.25,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "Do you feel like you are able to speak honestly about your issues in the workplace?",
+            "pivotType": "NA",
+            "goodRemark": "Bravo for honest communication in the workplace. Seek trusted support.",
+            "optionType": "distinct",
+            "focusRemark": "Openness in workplace issues reduces stress. Seek support.",
+            "excellentRemark": "Congratulations on your ability to openly address workplace issues!"
+          },
+          {
+            "id": "49",
+            "weight": 0.3,
+            "options": [
+              "Always or Almost Always",
+              "Very Often",
+              "Often",
+              "Occasionally",
+              "Never or Almost Never"
+            ],
+            "question": "How often do you experience stress, anxiety, or depression?",
+            "pivotType": "NA",
+            "goodRemark": "Manage stress effectively, consider exercise, meditation, and therapy support.",
+            "optionType": "distinct",
+            "focusRemark": "Manage stress, anxiety, and depression for well-being.",
+            "excellentRemark": "Impressive! Prioritizing stress management enhances overall well-being."
+          },
+          {
+            "id": "50",
+            "weight": 0.2,
+            "options": [
+              "Not at all",
+              "Less",
+              "Moderately",
+              "Highly",
+              "Extremely"
+            ],
+            "question": "How satisfied are you with the amount of control you have over the work you do?",
+            "pivotType": "NA",
+            "goodRemark": "Satisfied with work control, seek increased autonomy and growth.",
+            "optionType": "distinct",
+            "focusRemark": "Consider finding ways to increase your work autonomy.",
+            "excellentRemark": "Amazing! High work control fosters satisfaction, empowerment, and goal achievement."
+          },
+          {
+            "id": "51",
+            "weight": 0.25,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I am satisfied with the balance between my work time and leisure time.",
+            "pivotType": "NA",
+            "goodRemark": "Prioritize your work-life balance: set boundaries, prioritize self-care for joy.",
+            "optionType": "distinct",
+            "focusRemark": "Consider maintaining your  work-life balance which can improve your overall well-being and reduce stress.",
+            "excellentRemark": "Superb! You have an optimal work-life balance."
+          }
+        ],
+        "totalWeight": 1
+      },
+      {
+        "name": "Emotion",
+        "questions": [
+          {
+            "id": "52",
+            "weight": 0.12,
+            "options": [
+              "Not at all",
+              "Less",
+              "Moderately",
+              "Highly",
+              "Extremely"
+            ],
+            "question": "How satisfied do you feel with the amount of quality time spent with your closed ones?",
+            "pivotType": "NA",
+            "goodRemark": "You have a satisfactory amount of quality time with loved ones. Cherish and nurture those moments for stronger relationships. Well done!",
+            "optionType": "distinct",
+            "focusRemark": "Prioritize quality time with loved ones for stronger bonds and lasting memories.",
+            "excellentRemark": "Your dedication to quality time with loved ones is commendable. Keep nurturing relationships and making cherished memories. Well done!"
+          },
+          {
+            "id": "53",
+            "weight": 0.18,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "How often do you meditate or practice Yoga?",
+            "pivotType": "NA",
+            "goodRemark": "Your regular meditation or Yoga practice is commendable. It promotes relaxation, balance, and harmony. Well done!",
+            "optionType": "distinct",
+            "focusRemark": "Practice meditation or Yoga for inner peace, mindfulness, and well-being.",
+            "excellentRemark": "Your commitment to meditation or Yoga is inspiring. It brings mindfulness, improved health, and self-connection. Keep it up!"
+          },
+          {
+            "id": "54",
+            "weight": 0.15,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I express my feelings of anger and frustration in ways that are not hurtful to myself or others.",
+            "pivotType": "NA",
+            "goodRemark": "Handle anger and frustration well, express without harm. Keep it up, explore more for emotional well-being. Well done!",
+            "optionType": "distinct",
+            "focusRemark": "Express anger and frustration constructively, promoting understanding and resolution. Seek healthier outlets and effective communication strategies.",
+            "excellentRemark": "Your non-hurtful expression of anger and frustration shows emotional maturity and empathy. It fosters positive connections and a harmonious environment. Well done!"
+          },
+          {
+            "id": "55",
+            "weight": 0.2,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I set reasonable objectives for myself and strive to accomplish them.",
+            "pivotType": "NA",
+            "goodRemark": "Your goal-setting and determination are commendable. Keep it up for personal growth and fulfillment!",
+            "optionType": "distinct",
+            "focusRemark": "Set realistic objectives and pursue them with determination. Unlock your potential for personal growth and success.",
+            "excellentRemark": "Set ambitious goals, inspire with dedication and drive. Success knows no limits. Keep going!"
+          },
+          {
+            "id": "56",
+            "weight": 0.15,
+            "options": [
+              "Never or Almost Never",
+              "Occasionally",
+              "Often",
+              "Very Often",
+              "Always or Almost Always"
+            ],
+            "question": "I take responsibility for my actions and understand the effects they have on others.",
+            "pivotType": "NA",
+            "goodRemark": "You're responsible and aware of your actions' impact, fostering personal growth and positive connections. Well done!",
+            "optionType": "distinct",
+            "focusRemark": "Embrace responsibility, foster growth and positive relationships.",
+            "excellentRemark": "Your consistent responsibility for your actions and understanding of their impact inspire others and create positive relationships."
+          },
+          {
+            "id": "57",
+            "weight": 0.2,
+            "options": [
+              "No",
+              "Yes"
+            ],
+            "question": "I have received awards/acknowledgements in my workplace in the past 3 months.",
+            "pivotType": "NA",
+            "goodRemark": "Congratulations on your workplace accolades! Well-deserved recognition for your outstanding efforts!",
+            "optionType": "distinct",
+            "focusRemark": "Seek workplace awards/acknowledgements in the next 3 months. Show your dedication and excel!",
+            "excellentRemark": "Impressive! Your consistent workplace awards/acknowledgements highlight your unwavering commitment and inspire others."
+          }
+        ],
+        "totalWeight": 1
+      }
+    ]
+  }

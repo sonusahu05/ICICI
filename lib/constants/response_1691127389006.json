@@ -1,0 +1,217 @@
+{
+  "HRA": 31.606060606060606,
+  "bmi": 12.898328793454239,
+  "whr": 16.56600517687662,
+  "version": "1",
+  "reportId": "2",
+  "sections": [
+    {
+      "score": 40,
+      "remark": "Try adding more fruits, vegetables, whole grains, and proteins into your diet.",
+      "remarkType": "Focus Area",
+      "sectionName": "Nutrition",
+      "questionRemarks": [
+        {
+          "qid": "0",
+          "score": 2,
+          "remark": "Consider fueling your health with nature's bounty- fruits and veggies!",
+          "question": "I eat at least 3 cups of fruits and vegetables every day.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "1",
+          "score": 2,
+          "remark": "Choose health, skip fast food- opt for nutritious alternatives instead.",
+          "question": "I eat at fast food restaurants less than thrice a week.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "2",
+          "score": 2,
+          "remark": "How about having fibrous foods to shield your digestive health?",
+          "question": "I include fibrous foods like whole grain breads, cereals, beans in my diet.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "3",
+          "score": 2,
+          "remark": "Embrace health, ditch high-fat foods.",
+          "question": " I avoid eating fatty foods such as whole milk, fried foods, fatty meats, etc.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "4",
+          "score": 2,
+          "remark": "Try to incorporate more protein into your daily meals.",
+          "question": "I eat protein-rich foods like milk products, meat, fish, beans, etc.",
+          "remarkType": "Focus Area"
+        }
+      ]
+    },
+    {
+      "score": 30.424242424242426,
+      "remark": "Healthy lifestyle enhances well-being, reduces chronic disease risk. Incorporate habits: sleep, hydration, exercise.",
+      "remarkType": "Focus Area",
+      "sectionName": "Lifestyle",
+      "questionRemarks": [
+        {
+          "qid": "5",
+          "score": 4.333333333333333,
+          "remark": "Your sleep patterns are average, but optimizing them can enhance your overall health.",
+          "question": "How many hours of sleep do you get each night?",
+          "remarkType": "Good"
+        },
+        {
+          "qid": "6",
+          "score": 4.636363636363637,
+          "remark": "Improve water intake consistency for optimal hydration.",
+          "question": "How many glasses of water do you drink each day?",
+          "remarkType": "Good"
+        },
+        {
+          "qid": "7",
+          "score": 1,
+          "remark": "Take charge of substance intake for improved health habits.",
+          "question": "I avoid the use of tobacco products (cigarettes, smokeless tobacco, cigars, and pipes) and limit myself to 5 drinks of alcohol a week. (beer, liquor, wine)",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "8",
+          "score": 1,
+          "remark": "A long commute is time-consuming and exhausting for you.",
+          "question": "Is your one-sided commute time  more than an hour ? ",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "9",
+          "score": 1,
+          "remark": "Beware of excessive screen usage as it can adversely affect your productivity, mental health, and overall well-being.",
+          "question": "How often are you addicted to online streaming services?",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "10",
+          "score": 1,
+          "remark": "You must consider incorporating regular exercise for better health.",
+          "question": "I engage in physical activity at least half an hour, 5 days a week.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "11",
+          "score": 1,
+          "remark": "Embrace variety in your exercise: Stretching, aerobics, and strength training.",
+          "question": "My physical activity includes stretching, aerobic activity, and strength training.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "12",
+          "score": 1,
+          "remark": "Choose stairs over elevators, walk instead of driving- for a healthier lifestyle.",
+          "question": "I prioritize alternative transportation- taking stairs, biking, walking whenever feasible.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "13",
+          "score": 1,
+          "remark": "Break free from inactivity and embrace the benefits of an active lifestyle.",
+          "question": "I choose physical activity over inactivity.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "14",
+          "score": 1,
+          "remark": "Take charge of your health- prioritize regular health checkups.",
+          "question": "I see my physician for routine checkups, health screenings, and disease prevention.",
+          "remarkType": "Focus Area"
+        }
+      ]
+    },
+    {
+      "score": 20,
+      "remark": "Try reducing stress for better well-being. Try relaxation techniques, therapy support.",
+      "remarkType": "Focus Area",
+      "sectionName": "Stress",
+      "questionRemarks": [
+        {
+          "qid": "15",
+          "score": 1,
+          "remark": "Openness in workplace issues reduces stress. Seek support.",
+          "question": "Do you feel like you are able to speak honestly about your issues in the workplace?",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "16",
+          "score": 1,
+          "remark": "Manage stress, anxiety, and depression for well-being.",
+          "question": "How often do you experience stress, anxiety, or depression?",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "17",
+          "score": 1,
+          "remark": "Consider finding ways to increase your work autonomy.",
+          "question": "How satisfied are you with the amount of control you have over the work you do?",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "18",
+          "score": 1,
+          "remark": "Consider maintaining your  work-life balance which can improve your overall well-being and reduce stress.",
+          "question": "I am satisfied with the balance between my work time and leisure time.",
+          "remarkType": "Focus Area"
+        }
+      ]
+    },
+    {
+      "score": 36,
+      "remark": "Caring for your emotional and mental health can help you in numerous ways.",
+      "remarkType": "Focus Area",
+      "sectionName": "Emotion",
+      "questionRemarks": [
+        {
+          "qid": "19",
+          "score": 2,
+          "remark": "Prioritize quality time with loved ones for stronger bonds and lasting memories.",
+          "question": "How satisfied do you feel with the amount of quality time spent with your closed ones?",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "20",
+          "score": 2,
+          "remark": "Practice meditation or Yoga for inner peace, mindfulness, and well-being.",
+          "question": "How often do you meditate or practice Yoga?",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "21",
+          "score": 2,
+          "remark": "Express anger and frustration constructively, promoting understanding and resolution. Seek healthier outlets and effective communication strategies.",
+          "question": "I express my feelings of anger and frustration in ways that are not hurtful to myself or others.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "22",
+          "score": 2,
+          "remark": "Set realistic objectives and pursue them with determination. Unlock your potential for personal growth and success.",
+          "question": "I set reasonable objectives for myself and strive to accomplish them.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "23",
+          "score": 2,
+          "remark": "Embrace responsibility, foster growth and positive relationships.",
+          "question": "I take responsibility for my actions and understand the effects they have on others.",
+          "remarkType": "Focus Area"
+        },
+        {
+          "qid": "24",
+          "score": 1,
+          "remark": "Seek workplace awards/acknowledgements in the next 3 months. Show your dedication and excel!",
+          "question": "I have received awards/acknowledgements in my workplace in the past 3 months.",
+          "remarkType": "Focus Area"
+        }
+      ]
+    }
+  ],
+  "timestamp": "02-08-2023 20:26:44"
+}

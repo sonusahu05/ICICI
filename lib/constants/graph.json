@@ -1,0 +1,30 @@
+{
+  "latestNodes": [
+    {
+      "timestamp": "02-08-2023 20:26:28",
+      "HRA": 31.606060606060606,
+      "bmi": 12.898328793454239,
+      "whr": 16.56600517687662,
+      "version": "1",
+      "reportId": "0"
+    },
+    {
+      "timestamp": "02-08-2023 20:26:42",
+      "HRA": 31.606060606060606,
+      "bmi": 12.898328793454239,
+      "whr": 16.56600517687662,
+      "version": "1",
+      "reportId": "1"
+    },
+    {
+      "timestamp": "02-08-2023 20:26:44",
+      "HRA": 31.606060606060606,
+      "bmi": 12.898328793454239,
+      "whr": 16.56600517687662,
+      "version": "1",
+      "reportId": "2"
+    }
+  ],
+  "growthMessage": "You have maintained a score around 31.61. It's easy to give up, but small changes matter. Set realistic goals, track your progress, find a support system, and reward yourself. Don't give up!",
+  "trendGrowth": 0
+}

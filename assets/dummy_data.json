@@ -1,0 +1,76 @@
+{
+    "sections": [
+      {
+        "sectionTitle": "Section 1",
+        "questions": [
+          {
+            "text": "Question 1",
+            "options": ["Option 1", "Option 2"]
+          },
+          {
+            "text": "Question 2",
+            "options": ["Option 1", "Option 2", "Option 3"]
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Section 2",
+        "questions": [
+          {
+            "text": "Question 3",
+            "hasSlider": true,
+            "minSliderValue": 0.0,
+            "maxSliderValue": 10.0
+          },
+          {
+            "text": "Question 4",
+            "options": ["Option 1", "Option 2", "Option 3", "Option 4"]
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Section 3",
+        "questions": [
+          {
+            "text": "Question 5",
+            "options": ["Option 1", "Option 2", "Option 3", "Option 4", "Option 5"]
+          },
+          {
+            "text": "Question 6",
+            "hasSlider": true,
+            "minSliderValue": -5.0,
+            "maxSliderValue": 5.0
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Section 4",
+        "questions": [
+          {
+            "text": "Question 7",
+            "options": ["Option 1", "Option 2"]
+          },
+          {
+            "text": "Question 8",
+            "options": ["Option 1", "Option 2", "Option 3"]
+          }
+        ]
+      },
+      {
+        "sectionTitle": "Section 5",
+        "questions": [
+          {
+            "text": "Question 9",
+            "options": ["Option 1", "Option 2", "Option 3"]
+          },
+          {
+            "text": "Question 10",
+            "hasSlider": true,
+            "minSliderValue": 1,
+            "maxSliderValue": 100
+          }
+        ]
+      }
+    ]
+  }
+  
